@@ -1,2 +1,4 @@
-# Redux-toolkit
-E-commerce Add To Cart and wishlist functionality
+Connecting Redux with Reacxt
+Adding Add/remove to cart. 
+Increase/decrease quantity.
+Working with Immer JS
